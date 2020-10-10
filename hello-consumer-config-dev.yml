@@ -38,7 +38,7 @@ management:
     web:
       exposure:
         include: '*'
-username: England
+username: China
 password: "{cipher}06137469f30bfbd40c05309dd5729724e855b7a2d89649aa899a01ca15eb66e1"
 #eureka:
 #  client:

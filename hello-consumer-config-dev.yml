@@ -39,7 +39,7 @@ management:
       exposure:
         include: '*'
 username: China
-password: "{cipher}182fd6e087826deb94f85577c0ffa5d11d96074a12f88b17f59ceaf6e52491ef"
+password: "{cipher}ddde1f428371febaf84be14f169b63771585e2a35e70b874524627dbbd573661"
 #eureka:
 #  client:
 #    serviceUrl:

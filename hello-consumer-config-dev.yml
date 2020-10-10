@@ -39,7 +39,7 @@ management:
       exposure:
         include: '*'
 username: England
-mysql-password: {cipher}b2cc1cd9d3b873f01ea076ceb92c750cc8759bd678fb35056c46211922bbdb35
+mysql-password: '{cipher}b2cc1cd9d3b873f01ea076ceb92c750cc8759bd678fb35056c46211922bbdb35'
 #eureka:
 #  client:
 #    serviceUrl:

@@ -38,6 +38,7 @@ management:
     web:
       exposure:
         include: bus-refresh
+username: 中国
 #eureka:
 #  client:
 #    serviceUrl:

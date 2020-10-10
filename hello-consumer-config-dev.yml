@@ -38,7 +38,7 @@ management:
     web:
       exposure:
         include: '*'
-username: 中国
+username: USA
 #eureka:
 #  client:
 #    serviceUrl:

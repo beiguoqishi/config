@@ -39,7 +39,7 @@ management:
       exposure:
         include: '*'
 username: England
-password: "{cipher}b2cc1cd9d3b873f01ea076ceb92c750cc8759bd678fb35056c46211922bbdb35"
+password: "{cipher}06137469f30bfbd40c05309dd5729724e855b7a2d89649aa899a01ca15eb66e1"
 #eureka:
 #  client:
 #    serviceUrl:

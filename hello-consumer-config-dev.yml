@@ -19,7 +19,7 @@ spring:
       probability: 1.0
 server:
 #  端口号不能大于10000，不然服务发现不了，奶奶的
-  port: 8001
+  port: 7001
 logging:
   level:
     org:
